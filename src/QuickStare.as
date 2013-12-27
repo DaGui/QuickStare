@@ -15,7 +15,7 @@ package {
 		private var container:Sprite;
 		private var game:Game;
 
-		private const HEIGHT:int = 370;
+		private const HEIGHT:int = 330;
 		private const WIDTH:int = 2000;
 		private const GAME_WIDTH:int = 600;
 
